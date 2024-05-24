@@ -1,0 +1,29 @@
+
+:root {
+  --example-color:#1ec3f1;
+}
+
+@font-face {
+  font-family: GoogleSans;
+  src: url(../assets/fonts/google-sans/ProductSans-Regular.ttf);
+}
+
+* {
+  -webkit-font-smoothing : antialiased;
+  padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+  height:100%;
+  background-attachment: fixed;
+}
+
+body {
+  height:100%;
+  margin:0px;
+  padding:0px;
+  font-family: GoogleSans, sans-serif;
+  overflow:hidden;
+}
