@@ -1,1 +1,1 @@
-# shoelace-lit-docker-boilerplate
+# shoelace-lit-boilerplate
