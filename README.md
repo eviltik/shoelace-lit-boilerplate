@@ -32,3 +32,18 @@ pnpm start
 ```
 
 Then, open your favorite browser and go to https://localhost:8085/
+
+
+## Basic demo features
+
+* some simples pages
+* a theme changer using localstorage
+* a login page
+* client side routing using @vaading/router
+  * handle 404
+* webpack reverse proxy
+
+## More features ?
+
+Just open a ticket ;)
+
