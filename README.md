@@ -38,7 +38,9 @@ Then, open your favorite browser and go to https://localhost:8085/
 
 * some simples pages
 * a theme changer using localstorage
+* a material symbol custom component
 * a login page
+* a fake filtered list but having a "loading" step
 * client side routing using @vaading/router
   * handle 404
 * webpack reverse proxy
